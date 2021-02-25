@@ -124,7 +124,6 @@ else
   "extends": [
     "airbnb",
     "plugin:prettier/recommended",
-    "prettier/react"
   ],
   "env": {
     "browser": true,
