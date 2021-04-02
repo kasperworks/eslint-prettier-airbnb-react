@@ -132,6 +132,9 @@ else
     "jest": true,
     "node": true
   },
+  "parserOptions": {
+    "ecmaVersion": 2020
+  },
   "rules": {
     "jsx-a11y/href-no-hash": "off",
     "jsx-a11y/anchor-is-valid": "off",
