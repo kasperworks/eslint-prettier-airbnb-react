@@ -128,12 +128,12 @@ else
   "env": {
     "browser": true,
     "commonjs": true,
-    "es6": true,
+    "es2021": true,
     "jest": true,
     "node": true
   },
   "parserOptions": {
-    "ecmaVersion": 2020
+    "ecmaVersion": 2021
   },
   "rules": {
     "jsx-a11y/href-no-hash": "off",
